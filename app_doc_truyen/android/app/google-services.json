@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873845962244",
+    "project_id": "comicapp-a9d0c",
+    "storage_bucket": "comicapp-a9d0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873845962244:android:02e0cf7a0e854549d2a751",
+        "android_client_info": {
+          "package_name": "com.example.app_doc_truyen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873845962244-l3ghn31nc1fbkdgleev53cc0l15dtqd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMnjpAWMYr7gfvy7cxqHUZjeJXsZQ4CGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873845962244-l3ghn31nc1fbkdgleev53cc0l15dtqd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
